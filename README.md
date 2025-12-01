@@ -1,4 +1,4 @@
-Hellooo there ⭐️
+Hello there ⭐️
 
 🔭 I’m currently working on personal projects
 
@@ -8,4 +8,4 @@ Hellooo there ⭐️
 
 📫 How to reach me: https://www.linkedin.com/in/brooke-thompson-1324b321a/
 
-⚡️ Fun fact: I love to travel and stay in hostels 🗺️ and I code rockets at my school🚀
+⚡️ Fun fact: I love to travel and stay in hostels 🗺️ and I build rockets at my school🚀 and make interactive artwork with hardware🎨
